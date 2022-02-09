@@ -1,0 +1,38 @@
+<html>
+<head>
+<title> Armas no letales </title> 
+<font color= "#981313"> <h2 align="center"> <font size= 7 <p> Armas no letales </p> </font> </font> </font> <h1/>
+
+
+
+ <font color= "#000000" size= 4>Las armas no letales son todas aquellas armas que, a pesar de generar algún tipo de daño, no llegan a matar (en un principio), son usadas para defensa personal con la intención de interrumpir un acto violento, también lo usan los elementos de seguridad privados o policiales como instrumentos de represión y en los campos de batalla para desorientar al enemigo mientras se ejecuta una ofensiva.</p> </font> </font>
+
+
+ <font color= "#000000" > <font size= 4> A continuación se presentarán algunos ejemplos de armas no letales, se verán desde instrumentos de uso civil hasta los de uso militar.
+
+
+<hr>
+
+<p><font color= "#915709" font size= 6> Gas pimienta:</font>  <font color= "#000000" size= 4> Es usado casi en su totalidad en el ámbito civil (ya que es una herramienta antidisturbios) debido a su facilidad de uso, consiste simplemente en presionar el atomizador de la lata y se liberará un compuesto químico difícil de disolver y capaz de causar un ardor muy intenso al agresor, al punto de causar ceguera temporal.</font> </font> <p> <p/>
+<img boder= "10px" src= "NO.jfif" height= "250px" width= "250px"/>
+
+
+<p><font color= "#915709" font size= 6> Armas de electrochoque :</font>  <font color= "#000000" font size= 4> Los teaser de mano y pistolas teaser son los artefactos más comunes en esta categoría, funcionan provocando descargas eléctricas en el tejido muscular, lo cual produce una serie de contracciones musculares que paralizarán a quien le sean descargadas al punto de tirar a la persona al suelo, el teaser de mano, para que sea efectivo, se debe impactar contra una zona descubierta del cuerpo; la pistola teaser tiene dos electródos que son disparados con gran impulso, asi que son capaces de traspasar algunas prendas de vestir medianamente delgadas. Ambos son altamente efectivos pero (pricipalmente la pistola teaser) son algo peligrosos. <font size= 4> </font> <p> <p/>
+<img boder= "10px" src= "NO2.jpg" height= "250px" width= 300px"/> <img boder= "10px" src= "NO3.jpg" height= "250px" width= "300px"/>
+
+
+<p><font color= "#915709" font size= 6> Granadas aturdidoras:</font>  <font color= "#000000" size= 4>Son granadas que al accionarse despliegan un destello capaz de cegar al enemigo, lo desorienta y afecta seriamente sus capacidades de combate. No es letal pero no es un arma pensada para defenderse; Se utiliza mayormente en CQC (combate en espacios cerrados) durante las intervenciones policiales o militares antes de entrar a una habitación donde se sabe que hay actividad hostil, se lanza la granada aturdidora para incapacitar a las amenazas y se entra a la habitación para despejarla.   <font size= 4> </font> </font> <p> <p/>
+<img boder= "10px" src= "NO4.jpg" height= "275x" width= "175px"/>
+
+<p><font color= "#915709" font size= 6> Bastones:</font>  <font color= "#000000" size= 4> Es un arma mayormente usada por elementos de seguridad privados y policiales para frenar un ataque sin causar daño letal, a pesar de que estas armas si pueden llegar a matar. Se requiere cierto entrenamiento para emplear los bastones, especialmente si son tonfas, debido a las posibilidades que esta arma ofrece, simplemente golpear con la tonfa como si fuera un palo sería un gran desperdicio de sus capacidades. </font> </font> <p> <p/>
+<img boder= "10px" src= "NO5.gif" height= "300x" width= "300px"/>
+
+<p> <font color= "#000000" size= 4> Volver a la <a href="index.HTML"> página principal </a>
+<p> <font color= "#000000" size= 4> Ir a <a href="MK3 - copia - copia.HTML"> Chalecos antibalas <a/>
+
+<body background = "qqq.jpeg">
+</body>
+</htlm>
+
+                                                    
+                                             
